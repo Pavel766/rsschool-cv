@@ -25,3 +25,12 @@ let res = sum(3,6)
 console.log(res)
 ```
 ---
+### Education
+* **University:** Belarusian State University of Informatics and Radioelectronics
+* **Courses:** 
+    * CS50 lectures
+    * learn.javascript.com
+    * HTML Academy
+---
+### English
+**A2**
