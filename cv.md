@@ -25,3 +25,29 @@ I am a student at BSUIR. Before entering, it seemed that I would be taught progr
 - Git/GitHub
 
 ---
+
+### Code Example
+
+```
+function sum(a, b) {
+    return a + b
+}
+let res = sum(3,6)
+console.log(res)
+```
+
+---
+
+### Education
+
+- **University:** Belarusian State University of Informatics and Radioelectronics
+- **Courses:**
+  - CS50 lectures
+  - learn.javascript.com
+  - HTML Academy
+
+---
+
+### English
+
+**A2**
